@@ -201,8 +201,3 @@ print('numGuesses =', numGuesses)
 print (ans, 'is close to square root of', x)
 
 
-------------------------------------
-
-
-b. What would have to be changed to make the code above for finding an approximation to the cube root of 
-both negative and positive numbers? (Hint: think about changing low to ensure that the answer lies within the region being searched.)
